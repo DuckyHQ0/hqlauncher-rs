@@ -6,4 +6,4 @@
 
 A Rust library for Microsoft and Minecraft authentication. Uses Tao and Wry for window creation, for logging in.
 
-This is our main focus right now.
+Check out [mcln.rs](https://crates.io/crates/msmc) if you need a Minecraft launcher library, but we'll start working on that after this project is working.

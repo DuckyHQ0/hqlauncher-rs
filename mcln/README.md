@@ -6,7 +6,7 @@
 
 A Rust library for creating, launching, and managing Minecraft instances.
 
-This isn't our top priority right now, first we'll need authentication, so we're working on msmc.rs first.
+Check out [msmsc.rs](https://crates.io/crates/msmc) if you need authentication, we're working on that the most right now.
 
 Will include support for:
 
