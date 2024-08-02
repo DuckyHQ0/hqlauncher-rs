@@ -3,7 +3,6 @@ name = "mcln"
 license = "GPL-3.0"
 description = "An instance managment, creation, and launcher library for Minecraft."
 repository = "https://github.com/DuckyHQ0/hqlauncher-rs/tree/main/mcln"
-license-file = "LICENSE.txt"
 keywords = ["minecraft", "launcher"]
 version = "0.1.0"
 edition = "2021"
