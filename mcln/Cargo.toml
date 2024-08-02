@@ -1,5 +1,7 @@
 [package]
 name = "mcln"
+license = "GPL-3.0"
+description = "An instance managment, creation, and launcher library for Minecraft."
 version = "0.1.0"
 edition = "2021"
 

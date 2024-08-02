@@ -33,3 +33,7 @@ And other useful features.
 ### hql
 
 Frontend for the HQLauncher app. Uses Tauri, React, Vite, and MorphUI.
+
+### Licenses & Contributing
+
+Feel free to contribute. Each license is in their own folder, and they're all `GPL-3.0`.

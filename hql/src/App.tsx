@@ -5,7 +5,8 @@ function App() {
       <p className=" text-justify leading-10 text-base">
         hql is the frontend for the HQLauncher.rs project. This isn't our focus
         right now, we're focusing on the Rust backend and packages, such as
-        msmc.rs, and mcln.rs.
+        msmc.rs, and mcln.rs. But, we are testing the libraries in this project
+        right now.
       </p>
     </main>
   );
