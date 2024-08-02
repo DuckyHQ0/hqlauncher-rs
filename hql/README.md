@@ -1,4 +1,4 @@
-![hql cover](../assets/hql-cover.png)
+![hql cover](./.github/hql-cover.png)
 
 hql is the frontend Tauri app for the HQLauncher.rs project.
 

@@ -2,6 +2,10 @@
 name = "msmc"
 license = "GPL-3.0"
 description = "A Microsoft and Minecraft authentication library."
+repository = "https://github.com/DuckyHQ0/hqlauncher-rs/tree/main/msmc"
+license-file = "LICENSE.txt"
+keywords = ["minecraft", "microsoft", "auth"]
+categories = ["authentication"]
 version = "0.1.0"
 edition = "2021"
 

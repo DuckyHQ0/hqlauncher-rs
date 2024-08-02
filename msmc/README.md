@@ -1,4 +1,4 @@
-![msmc.rs cover](../assets/msmc.rs-cover.png)
+![msmc.rs cover](./.github/msmc.rs-cover.png)
 
 # Alpha 0.0!
 

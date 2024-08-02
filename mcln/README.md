@@ -1,4 +1,4 @@
-![mcln.rs cover](../assets/mcln.rs-cover.png)
+![mcln.rs cover](./.github/mcln.rs-cover.png)
 
 # Alpha 0.0!
 
